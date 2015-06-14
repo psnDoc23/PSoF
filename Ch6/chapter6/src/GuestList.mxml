@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Chapter 6 - Listing 6.5-->
-<!-- delete eventually - making sure compiled in correct dir -->
-
 <mx:Application xmlns:mx="http://www.adobe.com/2006/mxml">
 	
 	<mx:Style source="assets/css/style.css"/>
 	
 	<mx:RemoteObject id="ro" 
-		destination="guestService"
+		destination="guestListService"
 		endpoint="http://dellsrv.compute.prophetsports.net:10082/blazeds/messagebroker/amf"
 		result="resultHandler(event)"
 		fault="faultHandler(event)"/>
