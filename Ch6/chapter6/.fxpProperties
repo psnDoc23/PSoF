@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="c24735ed-71ff-4cdb-aa77-4659c0d61abe" projectUUID="c24735ed-71ff-4cdb-aa77-4659c0d61abe" pureCatalystProject="false" sdkVersion="4.6.0" uuid="8a14e0e1-0806-4a76-b02f-ac8f5ad18177" version="15">
+  <projects/>
+  <src>
+    <linked isMain="false" location="${DOCUMENTS}/PSoF/Ch6/" path="${DOCUMENTS}/PSoF/Ch6/" position="0" uuid="8a14e0e1-0806-4a76-b02f-ac8f5ad18177"/>
+  </src>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="8a14e0e1-0806-4a76-b02f-ac8f5ad18177"/>
+    <linked location="C:/Eclipse/Workspace/PSoF/Ch6/Flex/libs" path="/libs" position="1" uuid="8a14e0e1-0806-4a76-b02f-ac8f5ad18177"/>
+  </swc>
+  <misc/>
+  <theme/>
+  <mxmlFormattingPrefs groupAttributesByState="false" maxLineWidth="0" mxmlAlignAttributes="false" mxmlKeepAttributeValuesOrganized="false"/>
+</fxpProperties>

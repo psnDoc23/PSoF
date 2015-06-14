@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry exported="true" kind="lib" path="libs/spring-test-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/spring_2.5.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/junit-4.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/flex-messaging-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/servlet-api.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/flex-messaging-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

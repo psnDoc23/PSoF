@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexProperties enableServiceManager="false" flexServerFeatures="4" flexServerType="2" fmlDataModelLocation=".model/chapter6.fml" serverContextRoot="/" serverRoot="C:/Spring/vfabric-2.9.3.R/psn-base-dev01/webapps/PSoF/Ch6" serverRootURL="http://dellsrv.compute.prophetsports.net:10082/" toolCompile="true" useServerFlexSDK="false" version="1"/>
